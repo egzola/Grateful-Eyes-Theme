@@ -22,6 +22,8 @@ A calm and stylish dark theme for Visual Studio Code, designed to be easy on the
 3. Click **Install**
 4. Go to **Preferences > Color Theme** and select `Grateful Eyes Theme`
 
+Alternative install from link: https://marketplace.visualstudio.com/items?itemName=EduardoZola.grateful-eyes-theme
+
 ---
 
 ## Screenshots
